@@ -1,0 +1,5 @@
+{
+  "name": "Luxury Interior Slider",
+  "description": "A responsive React slider with circular navigation, pagination dots, and tab links, implemented with Tailwind CSS and TypeScript.",
+  "requestFramePermissions": []
+}
